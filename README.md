@@ -4,7 +4,7 @@
 The Locker Room is a two-page website prototype created for CMPA 3301 Project 03. The website represents my former apparel business, The Locker Room, which I operated while stationed at Clay Kaserne in Germany. The site is designed to showcase customizable apparel, share the story behind the business, and demonstrate my ability to plan, document, build, and publish a small web project.
 
 ## Live Website
-Live GitHub Pages URL:  
+Live GitHub Pages URL:  https://sgifford21.github.io/Project-3-A-Full-Project-Proposal/
 **Add your live URL here after GitHub Pages is published.**
 
 ## Repository Contents
